@@ -1,0 +1,21 @@
+{
+  "total": 1000,
+  "levels": {
+    "INFO": 326,
+    "WARN": 329,
+    "ERROR": 345
+  },
+  "status": {
+    "2xx": 1000,
+    "3xx": 0,
+    "4xx": 0,
+    "5xx": 0
+  },
+  "topPaths": [
+    {
+      "path": "/api/data",
+      "count": 1000
+    }
+  ],
+  "avgResponseTimeMs": 49.85
+}
